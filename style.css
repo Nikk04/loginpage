@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 *{
   margin: 0;
-  padding: 0;
+  padding: 70px 35px;
   outline: none;
   font-family: 'Poppins', sans-serif;
 }
@@ -13,7 +13,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background-color: #00DBDE;
-background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+background-image: linear-gradient(90deg, #00DBDE 46%, #FC00FF 54%);
 }
 ::selection{
   color: #fff;
@@ -183,3 +183,4 @@ form .page .btns button.next{
   display: block;
   color: #fff;
 }
+
